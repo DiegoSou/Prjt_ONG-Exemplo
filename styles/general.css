@@ -1,0 +1,109 @@
+#logo{
+    width: 100px;
+    height: 100px;
+}
+
+.titulo{
+    font-family: 'Handlee', cursive;
+    align-self: center;
+
+}
+
+
+.slide{
+    width: 100%;
+}
+
+.divPai{
+    background-color: #2B696350; /* primeira cor da paleta */
+    margin: 2%;
+    border-radius: 4px;
+    box-shadow: 1px 2px 1px 1px #4A696670; /* penultima cor da paleta */
+    padding: 2%;
+    text-align: -webkit-center;
+}
+
+.boxSite{
+    min-width: 320px;
+    background-color: #4AB5AC90; /* ultima cor da paleta */
+    box-shadow: 1px 2px 1px 1px #4A696670; /* penultima cor da paleta */
+
+    /* a cor #59CBE8 foi usada no design da logo */
+}
+
+.algnCenter{
+    align-self: center;
+    text-align: center;
+}
+
+.algnLeft{
+    text-align: left;
+}
+
+.colorWht{
+    background-color: white;
+}
+
+.marginNull{
+    margin: 0;
+}
+
+.margin{
+    margin: 1%;
+}
+
+/* .bgHeader{
+    background-color: #2B696350;
+} */
+
+.w-70{
+    width: 70%;
+}
+
+.opct{
+    opacity: 0.70;
+}
+
+.logoAjd{
+    width: 50%;
+    height: 50%;
+    align-self: center;
+    text-align: center;
+}
+
+.minWidth{
+    min-width: 310px;
+}
+
+.marginSubtitulo{
+    margin-top: 2%; 
+    margin-bottom: 2%;
+}
+
+.boxAssinatura{
+    width: fit-content;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+    border-radius: 12px;
+    background-color: #a7ece6;
+    background-attachment: fixed;
+    background-image: linear-gradient(120deg, #599ce8, #a7ece6);
+}
+
+.happyMFont{
+    font-family: 'Happy Monkey', cursive;
+}
+
+.poppinsFont{
+    font-family: 'Happy Monkey', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+
+.btnAssinar{
+    border-radius: 15px;
+}
+
+#txtDiferenca{
+    color: #4a6966;
+}
